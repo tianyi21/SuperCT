@@ -37,9 +37,10 @@ Numpy
 
 ## Description
 <div align="center"><img src="https://github.com/evanliuty/SuperCT/blob/master/img/net.png" width="80%"></div>
+
 The model was modified as shown above and implemented in PyTorch v1.0.
-<div align="center>
-  <img src="https://github.com/evanliuty/SuperCT/blob/master/img/pr.png" width="45%>
-  <img src="https://github.com/evanliuty/SuperCT/blob/master/img/tsne.png" width="45%>
+<div align="center">
+  <img src="https://github.com/evanliuty/SuperCT/blob/master/img/pr.png" width="38%">
+  <img src="https://github.com/evanliuty/SuperCT/blob/master/img/tsne.png" width="58%">
 </div>
-With ~4k8 cells of three categories, this repo achieved **99.28% accuracy** and **0.9965 mAP** when testing.
+With ~4k8 cells of three categories, this repo achieved 99.28% accuracy and 0.9965 mAP when testing.
