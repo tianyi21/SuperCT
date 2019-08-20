@@ -121,4 +121,4 @@ if __name__ == '__main__':
 
             if (step + 1 == np.ceil(x_train.shape[0] / params['batch_size'])) & ((epoch + 1) % params['lr_decay_epoch'] == 0):
                 update_lr(optimizer, params['lr_decay_rate'])
-                print("LR is decayed to {}".format(optimizer.param_groups[0]['lr']))
+                print("LR decays to {}".format(optimizer.param_groups[0]['lr']))
