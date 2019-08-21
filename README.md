@@ -8,7 +8,7 @@ Latest Update: 15:50 Aug 20th, 2019 CST
 💥**If you use or partially use this repo, you shall formally - in report or presentation - acknowledge this repo.**
 
 ## Introduction
-SuperCT was initially been published by [Xie et al.](https://academic.oup.com/nar/article/47/8/e48/5364134), in Nucleic Acids Research Vol. 47, 2019. This repo presents a modified version of SuperCT for supervised single-cell clustering. We have tested B, M, and T cells clustering with the implemented model on an industrial dataset and achieved 99.28% accuracy during testing.
+SuperCT was initially published by [Xie et al.](https://academic.oup.com/nar/article/47/8/e48/5364134), in Nucleic Acids Research Vol. 47, 2019. This repo presents a modified version of SuperCT for supervised single-cell clustering. We have tested B, M, and T cells clustering with the implemented model on an industrial dataset and achieved 99.28% accuracy during testing.
 
 ### Structure of this repo
 `source` contains all the source files
